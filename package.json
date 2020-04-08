@@ -1,0 +1,23 @@
+{
+  "name": "projet-moon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel landingpage.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcus-lntt/projet-moon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcus-lntt/projet-moon/issues"
+  },
+  "homepage": "https://github.com/marcus-lntt/projet-moon#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
