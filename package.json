@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "parcel landingpage.html"
+    "homepage": "parcel homepage.html",
+    "landingpage": "parcel landingpage.html",
+    "serie": "parcel series.html"
+  
+
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcus-lntt/projet-moon.git"
+    "url": "git+https://github.com/marcus-lntt/projetmp-moon.git"
   },
   "author": "",
   "license": "ISC",
