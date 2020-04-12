@@ -45,7 +45,7 @@ body {
   justify-content: space-around;
   flex-direction: row;
 }
-.img_film {
+.img_films .img_film {
   border-radius: 29px;
 }
 .footer-distributed {
