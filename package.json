@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/marcus-lntt/projet-moon#readme",
   "dependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   },
   "devDependencies": {
     "sass": "^1.26.3"
